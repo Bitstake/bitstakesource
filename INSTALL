@@ -1,0 +1,9 @@
+Building Bitstake
+
+See doc/readme-qt.rst for instructions on building Bitstake QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitstake.
+
+See doc/build-*.txt for instructions on building Bitstaked,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitstake.
